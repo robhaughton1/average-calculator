@@ -2,9 +2,9 @@
 A Python program that collects 5 user-inputted integers, calculates the average, and returns all numbers greater than the average.
 
 # Features 
-## Input Validation: rejects empty inputs and non-integer values
-## Handles both positive and negative integers
-## Clean error handling using try/except
+### Input Validation: rejects empty inputs and non-integer values
+### Handles both positive and negative integers
+### Clean error handling using try/except
 
 # How to run:
 python main.py
