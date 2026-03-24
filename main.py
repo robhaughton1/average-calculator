@@ -11,7 +11,7 @@ try:
             continue
 
         try:
-            user = int(raw)
+            user = float(raw)
         except ValueError:
             print("Input only numbers.")
             time.sleep(1)
